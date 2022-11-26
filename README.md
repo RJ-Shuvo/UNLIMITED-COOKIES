@@ -23,7 +23,7 @@ CONTACT WITH <a href="https://github.com/RJ-Shuvo"><b>RJ-Shuvo </a> </br><br>
  pip install rich
  pip install bs4
  pkg install git 
- git clone 
+ git clone https://github.com/RJ-Shuvo/UNLIMITED-COOKIES
 ```
 #### RUN SCRIPT
 ```python
