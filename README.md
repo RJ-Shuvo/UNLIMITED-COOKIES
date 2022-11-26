@@ -28,7 +28,7 @@ CONTACT WITH <a href="https://github.com/RJ-Shuvo"><b>RJ-Shuvo </a> </br><br>
 #### RUN SCRIPT
 ```python
  cd UNLIMITED-COOKIES
- python 
+ python RJ_COOKIES.py
 ```
 
 
