@@ -23,12 +23,14 @@ CONTACT WITH <a href="https://github.com/RJ-Shuvo"><b>RJ-Shuvo </a> </br><br>
  pip install rich
  pip install bs4
  pkg install git 
+ rm -rf UNLIMITED-COOKIES
  git clone https://github.com/RJ-Shuvo/UNLIMITED-COOKIES
 ```
 #### RUN SCRIPT
 ```python
+ git pull 
  cd UNLIMITED-COOKIES
- python RJ_COOKIES.py
+ python RJ_COOKIES_V5.py
 ```
 
 
